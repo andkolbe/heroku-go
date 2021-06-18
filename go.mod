@@ -3,6 +3,7 @@ module github.com/andkolbe/heroku-go
 go 1.16
 
 require (
+	github.com/gin-gonic/gin v1.7.2
 	github.com/gopherjs/gopherjs v0.0.0-20210614142143-03070f63dd63 // indirect
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e // indirect
 	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22 // indirect
